@@ -1,0 +1,99 @@
+body {
+    height: 2349px;
+    width: 1600px;
+    left: -800px;
+    top: -1175px;
+    border-radius: 0px;
+          
+}
+/* Верхнаяя линия */
+.header{
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.header-color{
+    color:rgba(33, 150, 243, 1) ;
+}
+.header-color-2{
+    color: rgba(0, 0, 0, 1); 
+}
+.header-color-3{
+    color:rgba(117, 117, 117, 1) ;
+}
+.header-2{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+
+
+/* Портфолио */
+.button{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    
+    
+}
+/* Проекти */ 
+
+.projects-work{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    text-align: left;
+    
+    
+}
+
+.proekti-opisaniye{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    
+    
+    color:rgba(117, 117, 117, 1) ;
+    }
+
+    /* Подвал */
+    .address-2{
+        font-family: Roboto;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color:rgba(117, 117, 117, 1) ;
+        
+        
+        
+    }
+    .address-color-2{
+       color:rgba(117, 117, 117, 1) ;
+       font-family: Roboto;
+       font-size: 14px;
+       font-weight: 400;
+       line-height: 24px;
+       letter-spacing: 0.03em;
+
+
+
+    }
+    

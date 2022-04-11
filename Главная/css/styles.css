@@ -1,0 +1,141 @@
+body {
+    height: 2349px;
+    width: 1600px;
+    left: -800px;
+    top: -1175px;
+    border-radius: 0px;
+          
+}
+/* Верхнаяя линия */
+.header{
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1); 
+}
+.header-color{
+    color:rgba(33, 150, 243, 1) ;
+}
+.header-color-2{
+    color: rgba(0, 0, 0, 1); 
+}
+.header-color-3{
+    color:rgba(117, 117, 117, 1) ;
+}
+.header-2{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+}
+
+
+/* Шапка */
+.way{
+font-family: Roboto;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0.06em;
+
+
+
+}
+.button{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0.06em;
+
+
+}
+/* Особенности */
+.osobennosti-zaglaviya{
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+
+
+}
+.osobennosti-zaglaviya-2{
+font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-align: left;
+
+
+}
+.osobennosti-opisaniye{
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.03em;
+text-align: left;
+color:rgba(117, 117, 117, 1) ;
+
+}
+/* Чем мы занимаемся */
+.chem-my-zanimayemsya{
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+/* Наша команда */
+.nasha-komanda{
+font-family: Roboto;
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0.03em;
+text-align: center;
+}
+.nasha-komanda-imena{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;   
+}
+.nasha-komanda-professiya{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0.03em;
+color: rgba(117, 117, 117, 1);
+}
+/* Подвал */
+.address{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    text-align: left;
+
+    
+    
+    
+}
+.address-color{
+    color:rgba(117, 117, 117, 1) ;
+    
+}
+
+
